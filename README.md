@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLEARANCE-ANALYST-ffb000?style=flat-square&amp;labelColor=0d1117" alt="Clearance: analyst">
-  <img src="https://img.shields.io/badge/STATE-ACTIVE_HUNT-ff5252?style=flat-square&amp;labelColor=0d1117" alt="State: active hunt">
+  <img src="https://img.shields.io/badge/PROFILE-CYBERSEC_GRADUATE-ffb000?style=flat-square&amp;labelColor=0d1117" alt="Profile: cybersecurity graduate">
+  <img src="https://img.shields.io/badge/STATE-GRC_SHIFT-ff5252?style=flat-square&amp;labelColor=0d1117" alt="State: GRC shift">
   <img src="https://img.shields.io/badge/DOCTRINE-TRUST_NOTHING,_VERIFY_EVERYTHING-e6edf3?style=flat-square&amp;labelColor=0d1117" alt="Doctrine">
   <img src="https://komarev.com/ghpvc/?username=theOnlyErroX-404&amp;style=flat-square&amp;color=ffb000&amp;label=INTRUSIONS%20LOGGED" alt="Profile views">
 </p>
@@ -30,7 +30,7 @@ theOnlyErroX-404@warroom:~$ ./init_session.sh --profile
 [  OK  ] rulesets ........ YARA / Sigma / Snort / Suricata
 [  OK  ] doctrine ........ "Intelligence without action is just data."
 [ WARN ] paranoia level .. MAXIMUM (by design)
-[ DONE ] all systems nominal :: happy hunting
+[ DONE ] all systems nominal :: session complete
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ff5252,100:0d1117" width="100%" alt="">
