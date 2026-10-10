@@ -1,11 +1,11 @@
 <!-- ▒▒ BANNER ▒▒ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:050505,40:7a1f1f,75:b8860b,100:ffb000&amp;text=theOnlyErroX-404&amp;fontSize=70&amp;fontColor=ffb000&amp;stroke=ff5252&amp;strokeWidth=1&amp;animation=twinkling&amp;desc=THREAT%20INTELLIGENCE%20::%20OSINT%20::%20DFIR&amp;descSize=18&amp;descColor=e6edf3&amp;descAlignY=72" width="100%" alt="theOnlyErroX-404 banner">
+  <img src="https://capsule-render.vercel.app/api?type=blur&amp;height=260&amp;color=0:050505,40:7a1f1f,75:b8860b,100:ffb000&amp;text=theOnlyErroX-404&amp;fontSize=70&amp;fontColor=ffb000&amp;stroke=ff5252&amp;strokeWidth=1&amp;animation=twinkling&amp;desc=GRC%20::%20THREAT%20INTELLIGENCE%20FOUNDATION%20::%20OSINT&amp;descSize=18&amp;descColor=e6edf3&amp;descAlignY=72" width="100%" alt="theOnlyErroX-404 banner">
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLEARANCE-ANALYST-ffb000?style=flat-square&amp;labelColor=0d1117" alt="Clearance: analyst">
-  <img src="https://img.shields.io/badge/STATE-ACTIVE_HUNT-ff5252?style=flat-square&amp;labelColor=0d1117" alt="State: active hunt">
+  <img src="https://img.shields.io/badge/PROFILE-CYBERSEC_GRADUATE-ffb000?style=flat-square&amp;labelColor=0d1117" alt="Profile: cybersecurity graduate">
+  <img src="https://img.shields.io/badge/STATE-GRC_SHIFT-ff5252?style=flat-square&amp;labelColor=0d1117" alt="State: GRC shift">
   <img src="https://img.shields.io/badge/DOCTRINE-TRUST_NOTHING,_VERIFY_EVERYTHING-e6edf3?style=flat-square&amp;labelColor=0d1117" alt="Doctrine">
   <img src="https://komarev.com/ghpvc/?username=theOnlyErroX-404&amp;style=flat-square&amp;color=ffb000&amp;label=INTRUSIONS%20LOGGED" alt="Profile views">
 </p>
@@ -16,39 +16,39 @@
 ## ⟦ 01 ⟧ TERMINAL INTRODUCTION
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=24&amp;pause=1100&amp;color=FFB000&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=62&amp;lines=root%40theOnlyErroX-404%3A~%23+whoami;Cyber+Threat+Intelligence+Analyst;Hunting+APTs+::+Mapping+TTPs+::+Enriching+IOCs;Trust+nothing.+Verify+everything." alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=24&amp;pause=1100&amp;color=FFB000&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=62&amp;lines=root%40theOnlyErroX-404%3A~%23+whoami;Cybersecurity+graduate+%7C+Threat+Intelligence+%7C+GRC;GRC+focus+::+Threat+Intelligence+foundation+::+OSINT+research;Trust+nothing.+Verify+everything." alt="Typing introduction">
 </div>
 
 ```console
-theOnlyErroX-404@warroom:~$ ./init_session.sh --analyst
+theOnlyErroX-404@warroom:~$ ./init_session.sh --profile
 [ BOOT ] war-room v3.1 :: secure session established
-[  OK  ] analyst ......... theOnlyErroX-404
-[  OK  ] role ............ Cybersecurity Analyst :: Threat Intelligence
+[  OK  ] profile ......... theOnlyErroX-404
+[  OK  ] role ............ Cybersecurity graduate | Threat Intelligence | GRC
 [  OK  ] mission ......... track actors / map TTPs / enrich IOCs
 [  OK  ] disciplines ..... CTI | OSINT | DFIR | malware triage | detection eng.
 [  OK  ] frameworks ...... MITRE ATT&CK / Diamond Model / Cyber Kill Chain
 [  OK  ] rulesets ........ YARA / Sigma / Snort / Suricata
 [  OK  ] doctrine ........ "Intelligence without action is just data."
 [ WARN ] paranoia level .. MAXIMUM (by design)
-[ DONE ] all systems nominal :: happy hunting
+[ DONE ] all systems nominal :: session complete
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ff5252,100:0d1117" width="100%" alt="">
 
 <!-- ▒▒ THREAT INTELLIGENCE DASHBOARD ▒▒ -->
-## ⟦ 02 ⟧ THREAT INTELLIGENCE DASHBOARD
+## ⟦ 02 ⟧ THREAT INTELLIGENCE DASHBOARD, STYLIZED DEMO
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=15&amp;pause=900&amp;color=FF5252&amp;center=true&amp;vCenter=true&amp;width=860&amp;height=42&amp;lines=%5BFEED%5D+correlating+IOCs+across+MISP+::+VirusTotal+::+Shodan;%5BFEED%5D+new+TTPs+mapped+to+MITRE+ATT%26CK;%5BFEED%5D+YARA+rule+compiled+::+zero+false+positives;%5BFEED%5D+Sigma+detection+deployed+to+SIEM;%5BFEED%5D+OSINT+sweep+complete+::+infrastructure+mapped" alt="Live intel feed ticker">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=15&amp;pause=900&amp;color=FF5252&amp;center=true&amp;vCenter=true&amp;width=860&amp;height=42&amp;lines=%5BDEMO%5D+correlating+IOCs+across+MISP+::+VirusTotal+::+Shodan;%5BDEMO%5D+new+TTPs+mapped+to+MITRE+ATT%26CK;%5BDEMO%5D+YARA+rule+concept+reviewed;%5BDEMO%5D+Sigma+detection+workflow+simulated;%5BDEMO%5D+OSINT+sweep+sample+::+infrastructure+mapped" alt="Live intel feed ticker">
 </div>
 
 | MODULE                  | STATUS                                                                                          | SIGNAL SOURCE                       |
 | :---------------------- | :---------------------------------------------------------------------------------------------- | :---------------------------------- |
 | IOC Enrichment          | ![ONLINE](https://img.shields.io/badge/ONLINE-ffb000?style=flat-square)                          | VirusTotal / MISP / Shodan          |
 | TTP Mapping             | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square)                          | MITRE ATT&amp;CK Navigator           |
-| Detection Engineering   | ![DEPLOYING](https://img.shields.io/badge/DEPLOYING-ff5252?style=flat-square)                    | Sigma / YARA / Suricata             |
+| Detection Engineering   | ![SIMULATED](https://img.shields.io/badge/SIMULATED-ff5252?style=flat-square)                    | Sigma / YARA / Suricata             |
 | Malware Triage          | ![SANDBOXED](https://img.shields.io/badge/SANDBOXED-e6edf3?style=flat-square)                    | Static &amp; dynamic analysis        |
-| OSINT Watch             | ![24%2F7](https://img.shields.io/badge/24%2F7-ffb000?style=flat-square)                          | Maltego / SpiderFoot                |
+| OSINT Watch             | ![WATCHLIST](https://img.shields.io/badge/WATCHLIST-ffb000?style=flat-square)                    | Maltego / SpiderFoot                |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ffb000,100:0d1117" width="100%" alt="">
 
@@ -58,14 +58,25 @@ theOnlyErroX-404@warroom:~$ ./init_session.sh --analyst
 | PROJECT          | BRIEF                                                  | STATE                                                                       |
 | :--------------- | :----------------------------------------------------- | :-------------------------------------------------------------------------- |
 | [`MOB_pentest`](https://github.com/theOnlyErroX-404/MOB_pentest) | Mobile application penetration testing toolkit &amp; methodology | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
-| [`deltati-api`](https://github.com/codextechorg/deltati-api) | Backend API for graduation project (codextechorg) | ![PRIVATE](https://img.shields.io/badge/PRIVATE-ff5252?style=flat-square) |
+| [`deltati-api`](https://github.com/codextechorg/deltati-api) | Backend API for graduation project (codextechorg), private repository | ![PRIVATE](https://img.shields.io/badge/PRIVATE-ff5252?style=flat-square) |
 | [`Log-Analyzer`](https://github.com/theOnlyErroX-404/Log-Analyzer) | Log parsing &amp; analysis for SIEM triage and DFIR investigations | ![ACTIVE](https://img.shields.io/badge/ACTIVE-ffb000?style=flat-square) |
 | [`Android-Forensics`](https://github.com/theOnlyErroX-404/Android-Forensics) | Android artifact acquisition &amp; mobile forensics research | ![RESEARCH](https://img.shields.io/badge/RESEARCH-e6edf3?style=flat-square) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ff5252,100:0d1117" width="100%" alt="">
 
+<!-- ▒▒ PLANNED GRC PROJECTS ▒▒ -->
+## ⟦ 04 ⟧ PLANNED GRC PROJECTS
+
+| PROJECT | PURPOSE | STACK | STATE |
+| :------ | :------ | :---- | :---- |
+| Threat-informed risk register | Purpose: map threats to business risks, controls, and ownership for risk tracking. | Stack: TBD | ![PLANNED](https://img.shields.io/badge/PLANNED-ff5252?style=flat-square) |
+| Framework crosswalk engine | Purpose: map control requirements across frameworks to support comparison and reuse. | Stack: TBD | ![PLANNED](https://img.shields.io/badge/PLANNED-ff5252?style=flat-square) |
+| Gap assessment case study | Purpose: document a scoped assessment process, findings, and remediation priorities. | Stack: TBD | ![PLANNED](https://img.shields.io/badge/PLANNED-ff5252?style=flat-square) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ffb000,100:0d1117" width="100%" alt="">
+
 <!-- ▒▒ CTI TOOLS ▒▒ -->
-## ⟦ 04 ⟧ CTI TOOLS
+## ⟦ 05 ⟧ CTI TOOLS
 
 **Languages &amp; Scripting**
 
@@ -100,7 +111,7 @@ theOnlyErroX-404@warroom:~$ ./init_session.sh --analyst
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ffb000,100:0d1117" width="100%" alt="">
 
 <!-- ▒▒ RESEARCH & WRITEUPS ▒▒ -->
-## ⟦ 05 ⟧ RESEARCH &amp; WRITEUPS
+## ⟦ 06 ⟧ RESEARCH &amp; WRITEUPS
 
 | DOSSIER                                      | FOCUS                              | STATUS                                                                      |
 | :------------------------------------------- | :--------------------------------- | :--------------------------------------------------------------------------- |
@@ -118,7 +129,7 @@ theOnlyErroX-404@warroom:~$ ./init_session.sh --analyst
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0:0d1117,50:ff5252,100:0d1117" width="100%" alt="">
 
 <!-- ▒▒ GITHUB ACTIVITY ▒▒ -->
-## ⟦ 06 ⟧ GITHUB ACTIVITY
+## ⟦ 07 ⟧ GITHUB ACTIVITY
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theOnlyErroX-404&amp;theme=gruvbox&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="GitHub trophies">
@@ -135,6 +146,10 @@ theOnlyErroX-404@warroom:~$ ./init_session.sh --analyst
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theOnlyErroX-404&amp;bg_color=0d1117&amp;color=e6edf3&amp;line=ffb000&amp;point=ff5252&amp;area=true&amp;area_color=ffb000&amp;hide_border=true&amp;custom_title=Commit%20Activity%20::%20Signal%20Analysis" alt="Commit activity graph" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/theOnlyErroX-404/theOnlyErroX-404/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
 </div>
 
 <!-- ▒▒ OUTRO ▒▒ -->
